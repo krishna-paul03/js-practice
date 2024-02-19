@@ -69,3 +69,6 @@ form button{
     font-size: 1.15rem;
     cursor: pointer;
 }
+.amount p {
+    font-size: 1.3rem;
+}
